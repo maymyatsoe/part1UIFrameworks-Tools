@@ -1,8 +1,5 @@
  Setting up Node.js and NPM
-Note: Make sure you have installed Git on your machine before you install Node.js. Please complete the previous Git 
-installation exercise before proceeding with this exercise.
 
-Objectives and Outcomes
 In this exercise, you will learn to set up the Node.js environment, a popular Javascript based server framework, and node
  package manager (NPM) on your machine. To learn more about NodeJS, you can visit https://nodejs.org. For this course, 
  you just need to install Node.js on your machine and make use of it for running some front-end tools. You will learn 
